@@ -20,5 +20,4 @@ Before you begin, ensure you have met the following requirements:
 
 pip install -r requirements.txt
 
-```bash
 
