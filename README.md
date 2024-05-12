@@ -5,7 +5,7 @@
 
 Clone the project repository:
 
-# Navigate to the project directory:
+## Navigate to the project directory:
 
 cd your-project-directory
 
@@ -16,7 +16,7 @@ Before you begin, ensure you have met the following requirements:
 - Python 3.x installed
 - Dependencies from requirements.txt are installed
 
-# Install the required packages:
+## Install the required packages:
 
 pip install -r requirements.txt
 
